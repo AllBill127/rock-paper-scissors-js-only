@@ -13,5 +13,7 @@ Run the game:
 Functionality:
 
   *. can run fixed amount of rounds if assigned a number in the game() parameters (by default runs 5 rounds).
+
   *. game output can be seen in the web developer tools 'console' window
+  
   *. user input is taken through prompt() and confirm() functions 
